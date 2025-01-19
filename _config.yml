@@ -14,15 +14,15 @@ name                     : &name "Delphine Roy"
 description              : &description "Delphine Roy's personal website"
 url                      : https://delphineroy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DelphineRoy/delphineroy.github.io"
+repository               : "delphineroy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : images/petit_P1100796.jpg
-  name             : "Delphine Roy
+  avatar           : "profile.png"
+  name             : "Delphine Roy"
   pronouns         : # example: "she/her"  
   bio              : "I'm a statistician and health economist. Currently head of the health and long-term care unit and deputy director of the Institut des politiques publiques"
   location         : "Paris, France"
