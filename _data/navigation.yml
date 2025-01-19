@@ -8,20 +8,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Current projects"
+#    url: /projects/    à ajouter quand je maitriserai un peu mieux le truc
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+
+    - title: "CV"
     url: /cv/
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+    
+#  - title: "Guide"
+#    url: /markdown/
