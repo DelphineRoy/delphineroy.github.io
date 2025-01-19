@@ -21,14 +21,14 @@ repository               : "delphineroy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/petit_P1100796.jpg"
   name             : "Delphine Roy"
   pronouns         : # example: "she/her"  
   bio              : "I'm a statistician and health economist. Currently head of the health and long-term care unit and deputy director of the Institut des politiques publiques"
   location         : "Paris, France"
   employer         : "Institut des politiques publiques, Paris School of Economics"
   uri              : # URL
-  email            : "delphine.roy@ipp.eu" 
+  email            : # "delphine.roy@ipp.eu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
