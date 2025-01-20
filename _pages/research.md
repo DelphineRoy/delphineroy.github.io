@@ -5,46 +5,57 @@ permalink: /research/
 author_profile: true
 ---
 
-### Work in progress
+### Projets en cours
 
-- Do Subsidies to Green Technical Change Reduce Carbon Emissions? Evidence from French Manufacturing Firms, w. L. Bach, A. Guillouzouic, and R. Paya [_Draft coming soon_!]
+- **Article en cours:**  
+  *"Administrative burden as a driver of discrimination against means-tested health insurance beneficiaries"* – avec J. Sultan-Parraud et L. Toulemon. Soumis (en anglais).  
+  Article issu du projet [Discriminations et refus de soins](https://www.ipp.eu/projet/discrimination-et-refus-de-soins/).
 
-- Gaps between working from home and its feasibility over time and across occupations, w. T. Breda and V. Pécheu [_Draft coming soon_!]
+- **Article en cours:**  
+  *"Le recours aux pensions d’invalidité selon les revenus en début de carrière"* – avec A. Mohammad, M. Tô, T. Tochev. Soumis (en français).  
+  Article issu du projet [Invalidité](https://www.ipp.eu/projet/invalidite/) (DREES-IPP).
 
-- The elasticity of retrofit demand to retrofit performance, w. E. Fize and A. Mélard
+- **Article en cours:**  
+  *"Are nursing homes a protective environment against mortality for the elderly?"* – Working paper :  
+  [WP Mortality NH vs Community](../../docs/roy-delphine/mortality_wp_dec24_v2.pdf).  
+  Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).
 
-- The incidence of retrofit subsidies on the housing renovation sector, w. E. Fize and A. Mélard
+- **Article en cours:**  
+  *"Upcoding in the Assessment of Long-Term Care Needs: Evidence from France"*. Soumis (en anglais).  
+  Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).
 
-- Perceptions of income inequality and redistributivity, with J. Sultan Parraud
+- **Projet en cours:**  
+  THEMIS : Territoires, Habitats EMergents, Institutions et Solvabilisation de la demande (contrat de recherche CNSA 2023-2025).  
+  Avec C. Auxépaules, A. Charpin et P. Culioli.
 
-- Broadband infrastructure, firms, and workers, with A. Guillouzouic and C. Malgouyres
+- **Projet en cours:**  
+  Établissements médico-sociaux et vagues de chaleur (APR MiRe « Repenser la protection sociale à l’aune des crises environnementales »).  
+  Avec P. Dutronc-Postel.
 
-### Working papers
+- **Projet en cours:**  
+  Projet [KAPPA](https://kappa.site.ined.fr/) (PPR Autonomie) – Conditions d’accès aux politiques publiques de l’autonomie.  
+  Consortium de recherche coordonné par R. Fontaine, INED. Coordinatrice de l’axe 5 – microsimulation.
 
-- Cohorts, Competition and Construction: Economic Performance, Land Expropriation and Bureaucrat Promotion in China, with [M. Zhuang](https://sites.google.com/view/maitingzhuang/home), *submitted* [Link](../files/Bureaucrat_promotion__land_expropriation_and_economic_performance__2021_version.pdf)
+- **Projet en cours:**  
+  [Effets d’une nouvelle organisation du travail dans l’aide à domicile : une évaluation par tirage aléatoire](https://www.ipp.eu/projet/equipes_autonomes/).  
+  Avec T. Breda, A. Rain et L. Toulemon.
 
-### Publications in peer-reviewed journals
+- **2021-2023:**  
+  [Invalidité](https://www.ipp.eu/projet/invalidite/) (projet DREES-IPP). Avec M. Tô et M. Anam.  
+  Dossier de la DREES en cours.
 
-- Large Means-Tested Pensions with Informal Labor Markets: Evidence from South Africa, with [A. Tondini](https://sites.google.com/site/alessandrocarlotondini/home?pli=1), Economic Development and Cultural Change, April 2023. [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717618)
+- **2021-2023:**  
+  [Les proches aidants : typologie, diversité des situations et des impacts](https://www.ipp.eu/projet/proches-aidants/) (Projet DREES-IPP).  
+  Avec L. Toulemon et T. Blavet.  
+  Études et résultats *"[Modes de garde et d’accueil des jeunes enfants handicapés : les parents en première ligne](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/modes-de-garde-et-daccueil-des-jeunes-enfants)"* publié.
 
-### Policy 
+- **2021-2022:**  
+  [Discriminations et refus de soins](https://www.ipp.eu/projet/discrimination-et-refus-de-soins/) (Réponse à appel d’offre Défenseur des Droits- DSS- DREES).  
+  Avec J. Sultan et L. Toulemon.  
+  [Rapport](https://www.ipp.eu/actualites/refus-de-soins-discriminatoires/) publié.
 
-- *[in French]* The carbon emissions of the French manufacturing industry, and the carbon targeting of public policies, with L. Bach, A. Guillouzouic, C. Malgouyres, and R. Paya, Note IPP n°102, January 2024
+- **2019-2022:**  
+  [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).  
+  Avec A. Carrère et L. Toulemon.  
+  [Rapport](https://www.cnsa.fr/actualites/lipp-publie-son-rapport-de-recherche-sur-les-conditions-dun-virage-domiciliaire-reussi) publié.
 
-- *[in French]* Evaluating the _France Relance_ decarbonization subsidies, with N. Astier, L. Bach, A. Guillouzouic, C. Malgouyres, H. Ollivier, and R. Paya, Rapport IPP n°50, January 2024
-
-- *[in French]* An evaluation of the French housing tax reform, w. L. Bach, A. Bozio, E. Fize, A. Guillouzouic, C. Malgouyres, Rapport IPP n°48, December 2023
-
-- *[in French]* An evaluation of the gender equality index, with T. Bréda, J. Ducoulombier, M. Leturcq, J. Sultan, M. Tô, Rapport IPP n°42, March 2023 [Link](https://www.ipp.eu/publication/evaluation-de-lindex-degalite-professionnelle/)
-
-- *[in French]* An econometric evaluation of the France High-Speed Broadband Plan, w. C. Malgouyres, A. Guillouizouic, N. Ghio, January 2023, [Link](https://www.ipp.eu/publication/evaluation-micro-econometrique-du-plan-france-tres-haut-debit/)
-
-- *[in French]* Le recours à l'activité partielle pendant la crise sanitaire et ses conséquences, with L. Bach, T. Breda, N. Ghio, C. Malgouyres, L. Toulemon, Rapport IPP 38, December 2022 [Link](https://www.ipp.eu/publication/le-recours-a-lactivite-partielle-pendant-la-crise-sanitaire-et-ses-effets/)
-
-- Redistributive effects of 2017-2022 social spending and tax reforms, with B. Fabre, C. Lallemand, N. Loisel, L. Puschnig, IPP Policy brief 81, mars 2022 [Link](https://www.ipp.eu/en/publication/redistributive-effects-of-2017-2022-social-spending-and-tax-reforms/)
-
-- *[in French]* Les aides au logement en temps réel : évaluation d’impact, with B. Fabre and C. Lallemand, Rapport IPP 35, July 2021 [Link](https://www.ipp.eu/publication/juillet-2021-aides-au-logement-en-temps-reel-evaluation-d-impact/)
-
-- Gender pay gaps within companies, with T. Breda, J. Sultan Parraud, M. Tô, IPP Policy brief 68, May 2021 [Link](https://www.ipp.eu/en/publication/gender-pay-gaps-within-companies/) [Website](https://inegalites-femmes-hommes.ipp.eu)
-
-- Gender inequality within Firms: what does the professional equality index measure?, with T. Breda, J. Sultan Parraud, M. Tô, IPP Policy brief 52, March 2020 [Link](https://www.ipp.eu/en/publication/march-2020-gender-inequality-within-firms-what-does-the-professional-equality-index-measure/)
