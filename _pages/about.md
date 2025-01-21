@@ -1,16 +1,11 @@
 ---
 permalink: /
-title: "Delphine Roy's webpage"
+title: "Delphine Roy"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Delphine's personal webpage on which papers, current research projects and teaching will soon be added.
 ======
-section
-
-Subsection title
-------
-subsection
+I'm a statistician and health economist. Currently deputy director and head of the "health and long-term care" unit of the Institut des politiques publiques.
