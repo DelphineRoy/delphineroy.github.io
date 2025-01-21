@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
 You can find a longer version of my CV [here](../files/CV_droy_sept23.pdf)
+
 
 Work experience
 ======
@@ -22,6 +24,7 @@ Work experience
 * 2004 – 2005  : **LEPAC et ARTE France** – Émission “Le dessous des cartes”. Assistante de recherche.
 * 2001 – 2002  : **Harvard University** – Dpt of Romance Languages. Teaching Assistant.
 
+
 Education
 ======
 
@@ -29,11 +32,12 @@ Education
 - 1998 – 2004 : **ENS.** DEA de sciences sociales ENS-EHESS, 2004.
 - 2001 – 2002 : **Harvard University.** Auditrice du programme doctoral “Inequality and Social Policy” (FAS/KSG).
 
-* 
+ 
 Skills
 ======
 * Languages : French, English, German
 * SAS, R, Stata, LaTeX
+
 
 Other activities
 ======
