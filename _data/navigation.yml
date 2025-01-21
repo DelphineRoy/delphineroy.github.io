@@ -6,17 +6,17 @@
 
 main:
 
-  - title: "Current projects"
+  - title: "Research projects"
     url: /research/
 
-  - title: "Papers"
+  - title: "Publications"
     url: /papiers/
-    
-  - title: "Teaching"
-    url: /teaching/    
 
   - title: "CV"
     url: /cv/
+    
+  - title: "Teaching"
+    url: /teaching/    
 
   - title: "Talks"
     url: /talks/
@@ -26,7 +26,6 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-    
- # - title: "Guide"
- #   url: /markdown/
+   
+# - title: "Guide"
+#   url: /markdown/
