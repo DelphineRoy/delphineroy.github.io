@@ -1,9 +1,30 @@
 ---
 layout: archive
-title: "Papiers"
+title: "Publications"
 permalink: /papiers/
 author_profile: true
 ---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+###### 0. Articles en cours 
+
+- *"Administrative burden as a driver of discrimination against means-tested health insurance beneficiaries"* – avec J. Sultan-Parraud et L. Toulemon. Soumis (en anglais).
+    * Article issu du projet [Discriminations et refus de soins](https://www.ipp.eu/projet/discrimination-et-refus-de-soins/).
+
+- *"Le recours aux pensions d’invalidité selon les revenus en début de carrière"* – avec A. Mohammad, M. Tô, T. Tochev. Soumis (en français).  
+    * Article issu du projet [Invalidité](https://www.ipp.eu/projet/invalidite/) (DREES-IPP).
+
+- *"Are nursing homes a protective environment against mortality for the elderly?"*
+    * Working paper :[WP Mortality NH vs Community](../files/mortality_wp_dec24_v2.pdf).  
+    * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).
+
+- *"Upcoding in the Assessment of Long-Term Care Needs: Evidence from France"*. Soumis (en anglais).  
+    * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).
+
+
 ###### 1. Publications dans des Revues à comité de lecture
 
 - **Poissonnier A., Roy D. (2017).** "[Household Satellite Account for France – methodological issues on the assesment of domestic production](https://onlinelibrary.wiley.com/doi/10.1111/roiw.12216)", *Review of Income and Wealth*, Volume 63, Issue 2, June 2017, p. 353–377.
