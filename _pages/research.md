@@ -18,14 +18,16 @@ _As PI_
 - Projet **[KAPPA](https://kappa.site.ined.fr/)** : Conditions d’Accès aux Politiques Publiques de l’Autonomie (PPR "Autonomie", ANR / France 2030)
      * Consortium de recherche coordonné par R. Fontaine, INED
      * Coordinatrice de l’axe 5 – microsimulation
+     * Membre du [comité de direction](https://kappa.site.ined.fr/fr/equipe/la-coordination/) avec R. Fontaine, Maëlle Moalic-Minnaert et Jingyue Xing-Bongioanni
+ 
 
 _As team member_
 
 - Projet **HERMES** : Handicap de l’Enfant, Retrait du Marché du travail Et Scolarisation (APR IRESP "Analyse des politiques de l’autonomie, de l’offre médico-sociale et des besoins des publics (APAOB)" 2024) 
-    * avec M. Tô
+    * avec M. Tô (PI)
 
 - Projet **"'Equipes autonomes"** : [Effets d’une nouvelle organisation du travail dans l’aide à domicile : une évaluation par tirage aléatoire](https://www.ipp.eu/projet/equipes_autonomes/)
-     * Avec T. Breda, A. Rain et L. Toulemon
+     * Avec T. Breda, A. Rain et L. Toulemon (PI)
 
 
 ### Past projects
@@ -39,13 +41,13 @@ _As PI_
 _As team member_
 
 - **2021-2023** : [Invalidité](https://www.ipp.eu/projet/invalidite/) (projet DREES-IPP)
-     * Avec A. Mohammad et M. Tô
+     * Avec A. Mohammad et M. Tô (PI)
      * Dossier de la DREES en cours
 
 - **2021-2023** : [Les proches aidants : typologie, diversité des situations et des impacts](https://www.ipp.eu/projet/proches-aidants/) (Projet DREES-IPP).  
-     * Avec L. Toulemon et T. Blavet  
+     * Avec L. Toulemon (PI) et T. Blavet  
      * Études et résultats *"[Modes de garde et d’accueil des jeunes enfants handicapés : les parents en première ligne](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/modes-de-garde-et-daccueil-des-jeunes-enfants)"* publié
 
 - **2021-2022** : [Discriminations et refus de soins](https://www.ipp.eu/projet/discrimination-et-refus-de-soins/) (Réponse à appel d’offre Défenseur des Droits- DSS- DREES).
-     * Avec J. Sultan et L. Toulemon  
+     * Avec J. Sultan (PI) et L. Toulemon  
      * [Rapport](https://www.ipp.eu/actualites/refus-de-soins-discriminatoires/) publié
