@@ -33,11 +33,11 @@ author_profile: true
 ### 1. Peer-reviewed publications / publications dans des revues à comité de lecture
 
 - "[Household Satellite Account for France – methodological issues on the assesment of domestic production](https://onlinelibrary.wiley.com/doi/10.1111/roiw.12216)" - with A. Poissonnier, *Review of Income and Wealth*, Volume 63, Issue 2, June 2017, p. 353–377.
-- "[Les personnes âgées et handicapées en France et les politiques publiques d’accompagnement](doi:10.3917/rfas.164.0021)", *Revue française des affaires sociales*, 21-33.
+- "[Les personnes âgées et handicapées en France et les politiques publiques d’accompagnement](https://doi.org/10.3917/rfas.164.0021)", *Revue française des affaires sociales*, 21-33.
 - "[Projections du coût de l’APA et des caractéristiques de ses bénéficiaires à l’horizon 2040 à l’aide du modèle Destinie](https://www.insee.fr/fr/statistiques/1305201?sommaire=1305205) »" - with C. Marbot, *Economie & Statistique* n° 481-482, décembre 2015.
 - "[Évaluation de la transformation de la réduction d’impôt pour l’emploi de salariés à domicile en crédit d’impôt en 2007](doi:10.3917/ecop.204.0053m)" - with C. Marbot, *Économie & Prévision*, 204-205(1), 53-88.
 - "[Justice intrafamiliale et solidarité publique : des opinions dans leur contexte](https://www.cairn.info/revue-retraite-et-societe1-2008-1-page-21.htm)" - with A. Béliard and L. Lacan, L., *Retraite et société*, 53(1), 21-47, 2008.
-- "[L’argent du « ménage », qui paie quoi ?](doi:10.3917/tgs.015.010)", *Travail, genre et sociétés*, 15(1), 101-119, 2006.
+- "[L’argent du « ménage », qui paie quoi ?](https://doi.org/10.3917/tgs.015.0101)", *Travail, genre et sociétés*, 15(1), 101-119, 2006.
 - "[Tout ce qui est à moi est à toi ? : Mise en commun des revenus et transferts d’argent dans le couple](https://doi.org/10.4000/terrain.3530)", *Terrain*, n°44, Sept. 2005.
 
 ### 2. Publications from the French official statistics / publications de la statistique publique
