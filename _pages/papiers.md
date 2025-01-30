@@ -56,7 +56,7 @@ author_profile: true
 - "[Projection des populations âgées dépendantes : deux méthodes d’estimation](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/les-dossiers-de-la-drees/dossiers-solidarite-et-sante/article/projection-des-populations-agees-dependantes-deux-methodes-d-estimation)" - with O. Froment, A. Lecroart, C. Marbot, *Dossiers Solidarité et Santé* n°43, DREES, septembre 2013.  
 - "[L’allocation personnalisée d’autonomie à l’horizon 2040](https://www.insee.fr/fr/statistiques/1521329)" - with C. Marbot, *INSEE Analyses* n°1, 2013.
 - "[Le travail domestique : 60 milliards d’heures en 2010](http://www.insee.fr/fr/ffc/ipweb/ip1423/ip1423.pdf)" / "[Unpaid domestic work: 60 billion hours in 2010](https://www.insee.fr/en/statistiques/2123971)", *Insee Première* n°1423, novembre 2012.  
-- "[Services à domicile : quel effet des incitations fiscales ?*](https://www.insee.fr/fr/statistiques/1521341)" - with C. Marbot, *Insee Analyses*, n°1, octobre 2011.  
+- "[Services à domicile : quel effet des incitations fiscales ?](https://www.insee.fr/fr/statistiques/1521341)" - with C. Marbot, *Insee Analyses*, n°1, octobre 2011.  
 
 
 ### 3. Other publications
@@ -64,7 +64,7 @@ author_profile: true
 - "Peut-on se passer de l’Ehpad ?", dans l’ouvrage *[Vieillir, et alors ?](https://www.institutparisregion.fr/nos-travaux/publications/vieillir-et-alors/)*, *Les Cahiers de l’Institut Paris Région*, n° 182, PUF, octobre 2024.
 - "[Qu’est-ce qu’un « proche aidant ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)", *Actualité et dossier en santé publique*, n°109, décembre 2019.
 - "[Qui sont les proches aidants des personnes âgées dépendantes ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)" - with M. Brunel and Couvert N., *Actualité et dossier en santé publique*, n°109, décembre 2019.
-- "[Répartition et marquage de l’argent au sein du couple"](doi:10.3917/rce.024.0141)", _Regards croisés sur l'économie_, 24(1), 141-148, 2019.
+- "[Répartition et marquage de l’argent au sein du couple"](doi:10.3917/rce.024.0141)", *Regards croisés sur l'économie*, 24(1), 141-148, 2019.
 - "[L'évolution des temps sociaux à travers les enquêtes « Emploi du temps »](doi:10.3917/inso.153.0008)", Informations sociales, 153(3), 2009.
 - "Comprendre la mobilisation familiale autour des personnes âgées" - Équipe MEDIPS, *Le 4 pages du Centre d’Études de l’Emploi*, n°33, août 2006.
 
@@ -72,10 +72,10 @@ author_profile: true
 
 ### 4. Working papers, reports
 
-- "[Les refus de soins opposés aux bénéficiaires de la complémentaire santé solidaire et de l'aide médicale de l'état](https://www.ipp.eu/actualites/refus-de-soins-discriminatoires/)" - with Le Rolland, L., Mendras, P., Sultan-Parraud, J., Toulemon, L. Rapport IPP n°43, mai 2023.
-- "[Vieillir à domicile : disparités territoriales, enjeux et perspectives](https://www.ipp.eu/publication/vieillir-a-domicile-disparites-territoriales-enjeux-et-perspectives/)", with A. Carrère et L. Toulemon (IPP), Rapport IPP n°41, mars 2023. 
+- "[Les refus de soins opposés aux bénéficiaires de la complémentaire santé solidaire et de l'aide médicale de l'état](https://www.ipp.eu/actualites/refus-de-soins-discriminatoires/)" - with Le Rolland, L., Mendras, P., Sultan-Parraud, J., Toulemon, L. *Rapport IPP n°43*, mai 2023.
+- "[Vieillir à domicile : disparités territoriales, enjeux et perspectives](https://www.ipp.eu/publication/vieillir-a-domicile-disparites-territoriales-enjeux-et-perspectives/)", with A. Carrère et L. Toulemon (IPP), *Rapport IPP n°41*, mars 2023. 
 - "[Les activités pour autrui: quel effet du passage à la retraite ?](https://www.cor-retraites.fr/sites/default/files/2019-06/doc-2019.pdf)", document du Conseil d’Orientation des Retraites, 2013.  
-- "[Households Satellite Account for France in 2010. Methodological issues on the assessment of domestic production](https://www.insee.fr/en/statistiques/1381047)", with A. Poissonnier, INSEE, document de travail G2013/14, 2013.
+- "[Households Satellite Account for France in 2010. Methodological issues on the assessment of domestic production](https://www.insee.fr/en/statistiques/1381047)", with A. Poissonnier, *INSEE, document de travail G2013/14*, 2013.
 - "[Projections du coût de l’APA et des caractéristiques de ses bénéficiaires à l’horizon 2040 à l’aide du modèle Destinie](https://www.insee.fr/en/statistiques/1380945)", with C. Marbot, *INSEE, document de travail G2012/10*, août 2012.
 - "[Évaluation de la transformation de la réduction d’impôt en crédit d’impôt pour l’emploi de salariés à domicile en 2007](https://www.insee.fr/fr/statistiques/1380980)", with C. Marbot, *INSEE, document de travail G2011/12*, juillet 2011. 
 - "[La contribution du travail domestique au bien-être matériel des ménages : une quantification à partir de l’enquête Emploi du Temps](https://www.insee.fr/fr/statistiques/1380932)", *INSEE, document de travail F1104* (03/2011)  
