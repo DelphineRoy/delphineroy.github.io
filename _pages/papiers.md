@@ -42,7 +42,7 @@ author_profile: true
 
 ### 2. Publications from the French official statistics / publications de la statistique publique
 
-- "[Modes de garde et d’accueil des jeunes enfants handicapés : les parents en première ligne](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/modes-de-garde-et-daccueil-des-jeunes-enfants)" - with T. Blavet, Y. Caenen, and H. Guedj, *Études et résultats*, 1286, novembre 2023.
+- "[Modes de garde et d’accueil des jeunes enfants handicapés : les parents en première ligne](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/modes-de-garde-et-daccueil-des-jeunes-enfants)" - with T. Blavet, Y. Caenen, and H. Guedj, *Études et résultats*, 1286, DREES, novembre 2023.
 - (2023, mai). "[Les refus de soins opposés aux bénéficiaires de la complémentaire santé solidaire et de l’aide médicale de l’État - Un testing portant sur une première prise de rendez-vous médical](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/les-refus-de-soins-opposes-aux)" - with L. Le Rolland, P. Mendras, J. Sultan-Parraud, L. Toulemon, *Les dossiers de la DREES*, 109, mai 2023.
 - "[Qui vit à domicile, qui vit en établissement parmi les personnes de 60 ans ou plus ?](https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/qui-vit-domicile-qui-vit-en-etablissement-parmi-les-personnes)", *Les dossiers de la DREES*, n°104, février 2023.
 - "[Perte d’autonomie : à pratiques inchangées, 108 000 seniors de plus seraient attendus en Ehpad d’ici à 2030](https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/perte-dautonomie-pratiques-inchangees-108-000-seniors-de-plus)" - with A. Miron de l’Espinay, *Études et résultats*, n°1172, DREES, décembre 2020.
@@ -65,7 +65,7 @@ author_profile: true
 - "[Qu’est-ce qu’un « proche aidant ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)", *Actualité et dossier en santé publique*, n°109, décembre 2019.
 - "[Qui sont les proches aidants des personnes âgées dépendantes ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)" - with M. Brunel and Couvert N., *Actualité et dossier en santé publique*, n°109, décembre 2019.
 - "[Répartition et marquage de l’argent au sein du couple"](doi:10.3917/rce.024.0141)", _Regards croisés sur l'économie_, 24(1), 141-148, 2019.
-- "[L'évolution des temps sociaux à travers les enquêtes « Emploi du temps »"](doi:10.3917/inso.153.0008)", Informations sociales, 153(3), 2009.
+- "[L'évolution des temps sociaux à travers les enquêtes « Emploi du temps »](doi:10.3917/inso.153.0008)", Informations sociales, 153(3), 2009.
 - "Comprendre la mobilisation familiale autour des personnes âgées" - Équipe MEDIPS, *Le 4 pages du Centre d’Études de l’Emploi*, n°33, août 2006.
 
  
