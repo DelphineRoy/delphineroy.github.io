@@ -11,6 +11,12 @@ author_profile: true
 
 ## Work in progress 
 
+- "Impacts du tarif global sur les Ehpad et leurs résidents" – with P. Culioli and A. Penneau (IRDES)
+    * Article issu du projet THEMIS
+      
+- "What makes some nursing homes more resilient to heat waves than others ?" – with P. Dutronc-Postel and T. Sukhdéo
+    * Article issu du projet PERSEPHONE
+      
 - "Administrative burden as a driver of discrimination against means-tested health insurance beneficiaries" – with J. Sultan-Parraud and L. Toulemon
     * Submitted (in English)
     * Article issu du projet [Discriminations et refus de soins](https://www.ipp.eu/projet/discrimination-et-refus-de-soins/)
