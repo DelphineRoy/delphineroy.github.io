@@ -21,7 +21,7 @@ author_profile: true
     * Working paper :[WP Mortality NH vs Community](../files/Mortality_NH_WP_V2_dec_24.pdf).  
     * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).
 
-- *"Upcoding in the Assessment of Long-Term Care Needs: Evidence from France"*. Soumis (en anglais).  
+- *"Upcoding in the Assessment of Long-Term Care Needs: Evidence from France"*. Forthcoming in _Health Economics_.  
     * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023).
 
 
