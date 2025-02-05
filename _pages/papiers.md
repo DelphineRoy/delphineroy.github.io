@@ -31,8 +31,7 @@ author_profile: true
 
 - "Strategic coding in the Assessment of Long-Term Care Needs: Evidence from France"
     * Forthcoming in _Health Economics_
-    * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités départementales de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023)
-
+    * Article issu du projet [KAPPA](https://kappa.site.ined.fr/) (PPR Autonomie)
 
 ## Published papers 
 
