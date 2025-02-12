@@ -29,14 +29,11 @@ author_profile: true
     * Working paper :[WP Mortality NH vs Community](../files/Mortality_NH_WP_V2_dec_24.pdf)
     * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités départementales de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023)
 
-- "Strategic coding in the Assessment of Long-Term Care Needs: Evidence from France"
-    * Forthcoming in _Health Economics_
-    * Article issu du projet [KAPPA](https://kappa.site.ined.fr/) (PPR Autonomie)
-
 ## Published papers 
 
 ### 1. Peer-reviewed publications / publications dans des revues à comité de lecture
 
+- "[Strategic Coding in the Assessment of Long-Term Care Needs : Evidence from France](https://doi.org/10.1002/hec.4950)", *Health Economics*, special issue on long-term care, february 2025.
 - "[Household Satellite Account for France – methodological issues on the assesment of domestic production](https://onlinelibrary.wiley.com/doi/10.1111/roiw.12216)" - with A. Poissonnier, *Review of Income and Wealth*, Volume 63, Issue 2, June 2017, p. 353–377.
 - "[Les personnes âgées et handicapées en France et les politiques publiques d’accompagnement](https://doi.org/10.3917/rfas.164.0021)", *Revue française des affaires sociales*, 21-33.
 - "[Projections du coût de l’APA et des caractéristiques de ses bénéficiaires à l’horizon 2040 à l’aide du modèle Destinie](https://www.insee.fr/fr/statistiques/1305201?sommaire=1305205) »" - with C. Marbot, *Economie & Statistique* n° 481-482, décembre 2015.
