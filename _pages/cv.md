@@ -41,7 +41,7 @@ Skills
 
 Other activities
 ======
-- Refereeing for _Économie et Statistique_, _Journal of Population Ageing_, _Socio-Economic Review_, _Formation Emploi_
-- Membre du comité scientifique du colloque « Retaites et vieillissement » de la Caisse des Dépôts
+- Refereeing for _Health Economics_, _Journal of Population Ageing_, __Économie et Statistique_, _Revue Française des Affaires Sociales_, Socio-Economic Review_, _Revue des politiques sociales et familiales_, _Formation Emploi_
+- Membre du comité scientifique du colloque « Retaites et vieillissement » de la Caisse des Dépôts et Consignations
 - 2021 - 2024 : membre du comité de lecture de la _Revue Française des Affaires Sociales_
 
