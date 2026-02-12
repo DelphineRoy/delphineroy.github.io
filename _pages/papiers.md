@@ -21,10 +21,6 @@ author_profile: true
     * Submitted (in English)
     * Article issu du projet [Discriminations et refus de soins](https://www.ipp.eu/projet/discrimination-et-refus-de-soins/)
 
-- "Le recours aux pensions d’invalidité selon les revenus en début de carrière" – with A. Mohammad, M. Tô, T. Tochev
-    * Submitted (in French) 
-    * Article issu du projet [Invalidité](https://www.ipp.eu/projet/invalidite/) (DREES-IPP)
-
 - "Are nursing homes a protective environment against mortality for the elderly?"
     * Working paper :[WP Mortality NH vs Community](../files/Mortality_NH_WP_V2_dec_24.pdf)
     * Article issu du projet [Trajectoires des personnes âgées en perte d’autonomie et disparités départementales de prise en charge](https://www.ipp.eu/projet/trajectoires-personnes-agees-en-perte-d-autonomie-et-disparites-departementales-de-prise-en-charge/) (Contrat de recherche CNSA 2020-2023)
@@ -32,7 +28,7 @@ author_profile: true
 ## Published papers 
 
 ### 1. Peer-reviewed publications / publications dans des revues à comité de lecture
-
+- "[How Does the Probability of Benefiting From a Disability Pension Vary With Early Career Earned Income? / Le recours aux pensions d’invalidité selon les revenus du travail en début de carrière](https://www.insee.fr/en/statistiques/8642183?sommaire=8640416)", *Economie et Statistique / Economics and Statistics*, with A. Mohammad, M. Tô and T. Tochev, september 2025.
 - "[Strategic Coding in the Assessment of Long-Term Care Needs : Evidence from France](https://doi.org/10.1002/hec.4950)", *Health Economics*, special issue on long-term care, february 2025.
 - "[Household Satellite Account for France – methodological issues on the assesment of domestic production](https://onlinelibrary.wiley.com/doi/10.1111/roiw.12216)" - with A. Poissonnier, *Review of Income and Wealth*, Volume 63, Issue 2, June 2017, p. 353–377.
 - "[Les personnes âgées et handicapées en France et les politiques publiques d’accompagnement](https://doi.org/10.3917/rfas.164.0021)", *Revue française des affaires sociales*, 21-33.
@@ -83,3 +79,4 @@ author_profile: true
 - "[La contribution du travail domestique au bien-être matériel des ménages : une quantification à partir de l’enquête Emploi du Temps](https://www.insee.fr/fr/statistiques/1380932)", *INSEE, document de travail F1104* (03/2011)  
 - "[L’effet de l’obtention d’une place en crèche sur le retour à l’emploi des mères et leur perception du développement de leurs enfants](http://www.cepremap.fr/depot/docweb/docweb0807.pdf)", with E. Maurin, *Document de travail Cepremap n°0807*, 2008.  
 - "L’aidant familial aux patients atteints de démence de type Alzheimer : agent économique producteur de services", *Rapport final, Fondation Mederic-Alzheimer*. Joël Marie-Eve, Gramain Agnès (dir.), Weber Florence, Wittwer Jérôme, Béliard Aude, Roy Delphine, 2005. 
+
