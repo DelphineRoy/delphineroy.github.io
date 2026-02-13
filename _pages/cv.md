@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-You can find a longer version of my CV [here](../files/CV_droy_sept23.pdf)
+You can find a longer version of my CV [here](../files/CV_github_droy_jan26.pdf)
 
 
 Work experience
