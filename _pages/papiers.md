@@ -64,8 +64,6 @@ author_profile: true
 - "[Qui sont les proches aidants des personnes âgées dépendantes ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)" - with M. Brunel and Couvert N., *Actualité et dossier en santé publique*, n°109, décembre 2019.
 - "[Répartition et marquage de l’argent au sein du couple"](doi:10.3917/rce.024.0141)", *Regards croisés sur l'économie*, 24(1), 141-148, 2019.
 - "[L'évolution des temps sociaux à travers les enquêtes « Emploi du temps »](doi:10.3917/inso.153.0008)", Informations sociales, 153(3), 2009.
-- "Comprendre la mobilisation familiale autour des personnes âgées" - Équipe MEDIPS, *Le 4 pages du Centre d’Études de l’Emploi*, n°33, août 2006.
-
  
 
 ### 4. Working papers, reports
@@ -78,5 +76,4 @@ author_profile: true
 - "[Évaluation de la transformation de la réduction d’impôt en crédit d’impôt pour l’emploi de salariés à domicile en 2007](https://www.insee.fr/fr/statistiques/1380980)", with C. Marbot, *INSEE, document de travail G2011/12*, juillet 2011. 
 - "[La contribution du travail domestique au bien-être matériel des ménages : une quantification à partir de l’enquête Emploi du Temps](https://www.insee.fr/fr/statistiques/1380932)", *INSEE, document de travail F1104* (03/2011)  
 - "[L’effet de l’obtention d’une place en crèche sur le retour à l’emploi des mères et leur perception du développement de leurs enfants](http://www.cepremap.fr/depot/docweb/docweb0807.pdf)", with E. Maurin, *Document de travail Cepremap n°0807*, 2008.  
-- "L’aidant familial aux patients atteints de démence de type Alzheimer : agent économique producteur de services", *Rapport final, Fondation Mederic-Alzheimer*. Joël Marie-Eve, Gramain Agnès (dir.), Weber Florence, Wittwer Jérôme, Béliard Aude, Roy Delphine, 2005. 
 
