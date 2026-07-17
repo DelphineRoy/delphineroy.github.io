@@ -38,6 +38,15 @@ author_profile: true
 - "[L’argent du « ménage », qui paie quoi ?](https://doi.org/10.3917/tgs.015.0101)", *Travail, genre et sociétés*, 15(1), 101-119, 2006.
 - "[Tout ce qui est à moi est à toi ? : Mise en commun des revenus et transferts d’argent dans le couple](https://doi.org/10.4000/terrain.3530)", *Terrain*, n°44, Sept. 2005.
 
+
+### 2. Policy briefs and policy contributions
+
+- "[Les émissions de CO2 liées à la prise en charge de la perte d’autonomie des personnes âgées](https://www.ipp.eu/publication/les-habitats-inclusifs-a-lintersection-entre-politique-de-lautonomie-et-politique-du-logement/)" - with P. Dutronc-Postel and T. Sukhdéo, *Note IPP*  n°128, juin 2026.
+- "[Les habitats inclusifs, à l’intersection entre politique de l’autonomie et politique du logement](https://www.ipp.eu/publication/les-habitats-inclusifs-a-lintersection-entre-politique-de-lautonomie-et-politique-du-logement/)" - with C. Auxépaules, *Note IPP*  n°126, mai 2026.
+- "[Le « vieillir chez soi », une alternative aux Ehpad ?](https://theconversation.com/le-vieillir-chez-soi-une-alternative-aux-ehpad-201827)" - with A. Carrère, *The Conversation*, avril 2023.
+- "[Prise en charge des personnes âgées : quel rôle pour les départements ?](https://theconversation.com/prise-en-charge-des-personnes-agees-quel-role-pour-les-departements-177410)" - with A. Carrère, *The Conversation*, mars 2022.
+
+
 ### 2. Publications from the French official statistics / publications de la statistique publique
 
 - "[Modes de garde et d’accueil des jeunes enfants handicapés : les parents en première ligne](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/modes-de-garde-et-daccueil-des-jeunes-enfants)" - with T. Blavet, Y. Caenen, and H. Guedj, *Études et résultats*, 1286, DREES, novembre 2023.
@@ -59,6 +68,7 @@ author_profile: true
 
 ### 3. Other publications
 
+- "[Chapitre 5. Effets redistributifs et pertinence des dispositifs fiscaux participant à la prise en charge de la perte d’autonomie des personnes âgées](https://doi.org/10.3917/scpo.carbo.2025.01.0171 )", with L. Le Rolland, in Carbonnier C., Morel N., Palier B. and Zemmour M. *Les politiques publiques par la défiscalisation*, Presses de Sc Po, oct 2025.
 - "Peut-on se passer de l’Ehpad ?", dans l’ouvrage *[Vieillir, et alors ?](https://www.institutparisregion.fr/nos-travaux/publications/vieillir-et-alors/)*, *Les Cahiers de l’Institut Paris Région*, n° 182, PUF, octobre 2024.
 - "[Qu’est-ce qu’un « proche aidant ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)", *Actualité et dossier en santé publique*, n°109, décembre 2019.
 - "[Qui sont les proches aidants des personnes âgées dépendantes ?](https://www.hcsp.fr/explore.cgi/adsp?clef=171)" - with M. Brunel and Couvert N., *Actualité et dossier en santé publique*, n°109, décembre 2019.
