@@ -16,6 +16,9 @@ author_profile: true
       
 - "What makes some nursing homes more resilient to heat waves than others ?" – with P. Dutronc-Postel and T. Sukhdéo
     * Article issu du projet PERSEPHONE
+ 
+- "How much does the disability of a child add to the child penalty ?" – with M. Pedrono and M. Tô
+    * Article issu du projet "Impact de la naissance d’un enfant handicapé sur les trajectoires professionnelles des parents et le revenu des ménages" (IRESP 2024 / PI : M. Tô)
       
 - "Administrative burden as a driver of discrimination against means-tested health insurance beneficiaries" – with J. Sultan-Parraud and L. Toulemon
     * Submitted (in English)
@@ -41,13 +44,13 @@ author_profile: true
 
 ### 2. Policy briefs and policy contributions
 
-- "[Les émissions de CO2 liées à la prise en charge de la perte d’autonomie des personnes âgées](https://www.ipp.eu/publication/les-habitats-inclusifs-a-lintersection-entre-politique-de-lautonomie-et-politique-du-logement/)" - with P. Dutronc-Postel and T. Sukhdéo, *Note IPP*  n°128, juin 2026.
+- "[Les émissions de CO2 liées à la prise en charge de la perte d’autonomie des personnes âgées](https://www.ipp.eu/publication/les-emissions-de-co2-liees-a-la-prise-en-charge-de-la-perte-dautonomie-des-personnes-agees/)" - with P. Dutronc-Postel and T. Sukhdéo, *Note IPP*  n°128, juin 2026.
 - "[Les habitats inclusifs, à l’intersection entre politique de l’autonomie et politique du logement](https://www.ipp.eu/publication/les-habitats-inclusifs-a-lintersection-entre-politique-de-lautonomie-et-politique-du-logement/)" - with C. Auxépaules, *Note IPP*  n°126, mai 2026.
 - "[Le « vieillir chez soi », une alternative aux Ehpad ?](https://theconversation.com/le-vieillir-chez-soi-une-alternative-aux-ehpad-201827)" - with A. Carrère, *The Conversation*, avril 2023.
 - "[Prise en charge des personnes âgées : quel rôle pour les départements ?](https://theconversation.com/prise-en-charge-des-personnes-agees-quel-role-pour-les-departements-177410)" - with A. Carrère, *The Conversation*, mars 2022.
 
 
-### 2. Publications from the French official statistics / publications de la statistique publique
+### 3. Publications from the French official statistics / publications de la statistique publique
 
 - "[Modes de garde et d’accueil des jeunes enfants handicapés : les parents en première ligne](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/modes-de-garde-et-daccueil-des-jeunes-enfants)" - with T. Blavet, Y. Caenen, and H. Guedj, *Études et résultats*, 1286, DREES, novembre 2023.
 - (2023, mai). "[Les refus de soins opposés aux bénéficiaires de la complémentaire santé solidaire et de l’aide médicale de l’État - Un testing portant sur une première prise de rendez-vous médical](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/les-refus-de-soins-opposes-aux)" - with L. Le Rolland, P. Mendras, J. Sultan-Parraud, L. Toulemon, *Les dossiers de la DREES*, 109, mai 2023.
@@ -66,7 +69,7 @@ author_profile: true
 - "[Services à domicile : quel effet des incitations fiscales ?](https://www.insee.fr/fr/statistiques/1521341)" - with C. Marbot, *Insee Analyses*, n°1, octobre 2011.  
 
 
-### 3. Other publications
+### 4. Other publications
 
 - "[Chapitre 5. Effets redistributifs et pertinence des dispositifs fiscaux participant à la prise en charge de la perte d’autonomie des personnes âgées](https://doi.org/10.3917/scpo.carbo.2025.01.0171 )", with L. Le Rolland, in Carbonnier C., Morel N., Palier B. and Zemmour M. *Les politiques publiques par la défiscalisation*, Presses de Sc Po, oct 2025.
 - "Peut-on se passer de l’Ehpad ?", dans l’ouvrage *[Vieillir, et alors ?](https://www.institutparisregion.fr/nos-travaux/publications/vieillir-et-alors/)*, *Les Cahiers de l’Institut Paris Région*, n° 182, PUF, octobre 2024.
@@ -76,7 +79,7 @@ author_profile: true
 - "[L'évolution des temps sociaux à travers les enquêtes « Emploi du temps »](doi:10.3917/inso.153.0008)", Informations sociales, 153(3), 2009.
  
 
-### 4. Working papers, reports
+### 5. Working papers, reports
 
 - "[Les refus de soins opposés aux bénéficiaires de la complémentaire santé solidaire et de l'aide médicale de l'état](https://www.ipp.eu/actualites/refus-de-soins-discriminatoires/)" - with Le Rolland, L., Mendras, P., Sultan-Parraud, J., Toulemon, L. *Rapport IPP n°43*, mai 2023.
 - "[Vieillir à domicile : disparités territoriales, enjeux et perspectives](https://www.ipp.eu/publication/vieillir-a-domicile-disparites-territoriales-enjeux-et-perspectives/)", with A. Carrère et L. Toulemon (IPP), *Rapport IPP n°41*, mars 2023. 
